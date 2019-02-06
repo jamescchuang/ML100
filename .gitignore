@@ -1,0 +1,5 @@
+/ans/*.*
+/practice/*
+/data/*.*
+/.ipynb_checkpoints/*.*
+*.csv
